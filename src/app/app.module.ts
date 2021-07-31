@@ -7,6 +7,7 @@ import { PropertyCardCompenent } from './property/property-card/property.compone
 import { PropertyListComponent } from './property/property-list/property-list.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { HttpClientModule } from '@angular/common/http';
+import { HousingService } from './services/housing.service';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,7 @@ import { HttpClientModule } from '@angular/common/http';
     NavBarComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
-  providers: [],
+  providers: [HousingService],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
