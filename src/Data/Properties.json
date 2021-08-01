@@ -3,44 +3,42 @@
     "Id": 1,
     "Name": "Birlasff House",
     "Type": "house",
-    "price": 12000
+    "Price": 12000
   },
   {
     "Id": 2,
     "Name": "Shashank house",
     "Type": "house",
-    "price": 12000
+    "Price": 12000
   },
   {
     "Id": 3,
     "Name": "Sai House",
     "Type": "house",
-    "price": 100000
+    "Price": 100000
   },
   {
     "Id": 4,
     "Name": "Abhi House",
     "Type": "house",
-    "price": 1500000
+    "Price": 1500000
   },
   {
     "Id": 5,
     "Name": "kakulu House",
     "Type": "house",
-    "price": 1200000
+    "Price": 1200000
   },
   {
     "Id": 5,
     "Name": "kakulu House",
     "Type": "house",
-    "price": 1200000
+    "Price": 1200000
   },
   {
     "Id": 6,
     "Name": "kakulu House",
     "Type": "house",
-    "price": 1200000
+    "Price": 1200000
   }
 ]
-
-
