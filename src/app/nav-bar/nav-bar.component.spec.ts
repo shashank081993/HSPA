@@ -15,11 +15,6 @@ describe('NavBarComponent', () => {
     })
     .compileComponents();
   }));
-
-
-
-  
-
   beforeEach(() => {
     fixture = TestBed.createComponent(NavBarComponent);
     component = fixture.componentInstance;
